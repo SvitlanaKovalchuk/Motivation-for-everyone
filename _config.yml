@@ -56,6 +56,7 @@ plugins:
  - about.md
 
 # Build settings
+theme: THEME-NAME
 theme: minima
 
 plugins:
